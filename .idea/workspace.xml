@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="415e4e44-d258-46e0-909f-db1ae0ff2930" name="Changes" comment="git">
+    <list default="true" id="415e4e44-d258-46e0-909f-db1ae0ff2930" name="Changes" comment="aaaaaaaaaaaaaah">
+      <change beforePath="$PROJECT_DIR$/../War12.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../War12.3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../War12.3/country" beforeDir="false" afterPath="$PROJECT_DIR$/../War12.3/country" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +26,26 @@
         <option value="ja" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../War12.3" value="aaaaaaaaaaaaaaaaaaaah" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../War12.3" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TomasPittauer"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7b03f6f0-d1c2-419a-8e45-cf37971bee49" />
+        <option name="url" value="https://github.com/TomasPittauer/country.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,24 +59,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;countries&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pitta/IdeaProjects/War12.3&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "snad",
+    "last_opened_file_path": "C:/Users/pitta/IdeaProjects/War12.3",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pitta\IdeaProjects\War12.3\country" />
+      <recent name="C:\Users\pitta\IdeaProjects\War12.3" />
       <recent name="C:\Users\pitta\IdeaProjects\War12.3\country\src\app\link" />
     </key>
   </component>
@@ -97,7 +124,7 @@
       <workItem from="1711009642855" duration="9000" />
       <workItem from="1711437900227" duration="2151000" />
       <workItem from="1711440091917" duration="59000" />
-      <workItem from="1711440234388" duration="531000" />
+      <workItem from="1711440234388" duration="3110000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <option name="closed" value="true" />
@@ -131,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711440285000</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="git">
+      <option name="closed" value="true" />
+      <created>1711440779313</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711440779313</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +174,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git" />
-    <option name="LAST_COMMIT_MESSAGE" value="git" />
+    <MESSAGE value="aaaaaaaaaaaaaah" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaaaaaaaaaaah" />
   </component>
 </project>
