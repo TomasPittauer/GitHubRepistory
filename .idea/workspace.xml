@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="415e4e44-d258-46e0-909f-db1ae0ff2930" name="Changes" comment="" />
+    <list default="true" id="415e4e44-d258-46e0-909f-db1ae0ff2930" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../War12.3/country" beforeDir="false" afterPath="$PROJECT_DIR$/../War12.3/country" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,11 +90,24 @@
       <workItem from="1710840542319" duration="259000" />
       <workItem from="1710849428308" duration="19000" />
       <workItem from="1711009642855" duration="9000" />
-      <workItem from="1711437900227" duration="785000" />
+      <workItem from="1711437900227" duration="1116000" />
     </task>
+    <task id="LOCAL-00001" summary="git">
+      <option name="closed" value="true" />
+      <created>1711438712332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711438712332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
   </component>
 </project>
