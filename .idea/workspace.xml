@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="415e4e44-d258-46e0-909f-db1ae0ff2930" name="Changes" comment="aaaaaaaaaaaaaah">
-      <change beforePath="$PROJECT_DIR$/../War12.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../War12.3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../War12.3/country" beforeDir="false" afterPath="$PROJECT_DIR$/../War12.3/country" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +81,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\pitta\IdeaProjects\War12.3\country" />
       <recent name="C:\Users\pitta\IdeaProjects\War12.3" />
+      <recent name="C:\Users\pitta\IdeaProjects\War12.3\country" />
       <recent name="C:\Users\pitta\IdeaProjects\War12.3\country\src\app\link" />
     </key>
   </component>
@@ -124,7 +123,7 @@
       <workItem from="1711009642855" duration="9000" />
       <workItem from="1711437900227" duration="2151000" />
       <workItem from="1711440091917" duration="59000" />
-      <workItem from="1711440234388" duration="3110000" />
+      <workItem from="1711440234388" duration="3471000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <option name="closed" value="true" />
@@ -166,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711440779313</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="aaaaaaaaaaaaaah">
+      <option name="closed" value="true" />
+      <created>1711443383035</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711443383035</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
