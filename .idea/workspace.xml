@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ja" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../War12.3" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -39,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "countries",
     "last_opened_file_path": "C:/Users/pitta/IdeaProjects/War12.3",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -90,7 +95,7 @@
       <workItem from="1710840542319" duration="259000" />
       <workItem from="1710849428308" duration="19000" />
       <workItem from="1711009642855" duration="9000" />
-      <workItem from="1711437900227" duration="1116000" />
+      <workItem from="1711437900227" duration="1638000" />
     </task>
     <task id="LOCAL-00001" summary="git">
       <option name="closed" value="true" />
@@ -100,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711438712332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git">
+      <option name="closed" value="true" />
+      <created>1711439196852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711439196852</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
